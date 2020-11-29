@@ -10,7 +10,7 @@ ARG ICON="cube"
 ARG ARCH=arm32v7
 ARG DISTRO=daffy
 ARG BASE_TAG=${DISTRO}-${ARCH}
-ARG BASE_IMAGE=dt-ros-commons
+ARG BASE_IMAGE=dt-autolab-commons
 ARG LAUNCHER=default
 
 # define base image
